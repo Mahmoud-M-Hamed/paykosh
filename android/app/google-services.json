@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276660403521",
+    "firebase_url": "https://paykosh-44f94-default-rtdb.firebaseio.com",
+    "project_id": "paykosh-44f94",
+    "storage_bucket": "paykosh-44f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276660403521:android:56b059236b45976a12b5c0",
+        "android_client_info": {
+          "package_name": "com.example.paykosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276660403521-k870f9octh1m93qpq44np6lghh0gilf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paykosh",
+            "certificate_hash": "68093a57f030e0e1c80805f79fc5650e4a69f1be"
+          }
+        },
+        {
+          "client_id": "276660403521-4rkb82sh55j2cunbb5dfdam46a8ms4dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7N73so-OCUvT_tSwrsXcMfV7DKpVvSU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276660403521-4rkb82sh55j2cunbb5dfdam46a8ms4dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
