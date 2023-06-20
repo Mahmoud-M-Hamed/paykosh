@@ -1,16 +1,6 @@
 # paykosh
 
-A Reservasion App.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"Paykosh" is your ultimate companion for reserving cinema tickets effortlessly.
+This dynamic Flutter app combines the power of Firebase and Google Cloud Platform with seamless location services, offering you a delightful user experience.
+Immerse yourself in Paykosh's captivating UI, which features a range of movie categories to choose from, including animation, action, fantasia, horror, and romantic. Dive deeper into your movie selection with the film details and thrilling trailers to help you make an informed choice.
+Never worry about finding the nearest cinema again, as Paykosh's location service screen and nearby cinema search feature bring the cinema to your fingertips. Discover the perfect cinema for your movie night in just a few taps.
